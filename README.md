@@ -2,7 +2,7 @@
 
 💻 Frontend Developer
 🚀 Working with modern web technologies
-🌍 Based in Switzerland
+🌍 Based in Switzerland 🇨🇭
 
 ---
 
