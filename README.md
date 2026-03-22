@@ -2,7 +2,7 @@
 
 💻 Frontend Developer
 🚀 Working with modern web technologies
-🌍 Based in Switzerland 🇨🇭 ![Switzerland](https://flagcdn.com/w40/ch.png)
+🌍 Based in Switzerland 🇨🇭
 
 ---
 
