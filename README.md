@@ -1,11 +1,3 @@
-# Hi 👋 I'm Emre
-
-💻 Frontend Developer
-🚀 Working with modern web technologies
-🌍 Based in Switzerland 🇨🇭
-
----
-
 ## 🧑‍💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -18,22 +10,6 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreSchweiz&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreSchweiz&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmreSchweiz&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-* ✉️ [ocak.emre@gmail.com](mailto:yourmail@example.com)
