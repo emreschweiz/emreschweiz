@@ -13,3 +13,5 @@
 ## 🔥 Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmreSchweiz&theme=tokyonight)
+
+.
