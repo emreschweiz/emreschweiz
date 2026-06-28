@@ -14,4 +14,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmreSchweiz&theme=tokyonight)
 
-.
+"We are all born mad, some remain so."
